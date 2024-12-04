@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../github"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Pinetour"
+  }
+}
